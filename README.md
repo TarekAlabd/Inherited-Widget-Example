@@ -1,4 +1,4 @@
-# Inherited Widget Example App
+# Inherited Widget Example
 
 This is an example of inherited widget and how to use it as a state management.
 
